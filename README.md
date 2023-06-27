@@ -16,6 +16,13 @@ In addition to the conservation of mass, the Navier-Stokes equation also incorpo
 
 $$\frac{{\partial (\rho \mathbf{v})}}{{\partial t}} + \nabla \cdot (\rho \mathbf{v} \mathbf{v}) = -\nabla p + \nabla \cdot (\mu (\nabla \mathbf{v} + (\nabla \mathbf{v})^T)) + \rho \mathbf{g}$$
 
+## subheader 
+
+This acutally isn't my favorite equation. Euler's equation is, which is the following
+
+$$ e^{\pi i } + 1 =0 $$
+
+
 
 
 Here, p is the pressure, μ is the dynamic viscosity of the fluid, g is the acceleration due to gravity, and (∇v)^T represents the transpose of the gradient of the velocity vector.

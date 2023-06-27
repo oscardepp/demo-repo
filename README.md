@@ -14,7 +14,10 @@ This equation represents the conservation of mass, where ρ is the density of th
 
 In addition to the conservation of mass, the Navier-Stokes equation also incorporates the conservation of momentum. It can be written as:
 
-$$ \frac{{\partial (\rho \mathbf{v})}}{{\partial t}} + \nabla \cdot (\rho \mathbf{v} \mathbf{v}) = -\nabla p + \nabla \cdot (\mu (\nabla \mathbf{v} + (\nabla \mathbf{v})^T)) + \rho \mathbf{g} $$
+$$\frac{{\partial (\rho \mathbf{v})}}{{\partial t}} + \nabla \cdot (\rho \mathbf{v} \mathbf{v}) = -\nabla p + \nabla \cdot (\mu (\nabla \mathbf{v} + (\nabla \mathbf{v})^T)) + \rho \mathbf{g}$$
+
+
+
 Here, p is the pressure, μ is the dynamic viscosity of the fluid, g is the acceleration due to gravity, and (∇v)^T represents the transpose of the gradient of the velocity vector.
 
 These equations are differential equations that describe the behavior of fluids and are used extensively in the study of fluid dynamics and engineering applications.
